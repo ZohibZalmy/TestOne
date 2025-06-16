@@ -1,0 +1,6 @@
+@Chatham.Sandbox.TestOne_HostAddress = http://localhost:5125
+
+GET {{Chatham.Sandbox.TestOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
